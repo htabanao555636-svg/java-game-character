@@ -1,4 +1,4 @@
-<p> <img src="https://cdn.themeselection.com/ts-assets/sneat/logo/logo.png" alt="sneat-logo" width="60px" height="auto"></p>
+<p> <img src="https://static.vecteezy.com/system/resources/thumbnails/001/840/618/small/picture-profile-icon-male-icon-human-or-people-sign-and-symbol-free-vector.jpg" width="60px" height="auto"></p>
 
 # java-game-character
 
