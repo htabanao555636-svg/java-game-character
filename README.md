@@ -1,3 +1,5 @@
+      <img src="https://cdn.themeselection.com/ts-assets/sneat/logo/logo.png" alt="sneat-logo" width="60px" height="auto">
+
 # java-game-character
 
 # 🎮 Data Abstraction in Java (DSA Lesson)
